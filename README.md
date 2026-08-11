@@ -8,7 +8,7 @@
 
 <br>
 
-<img width="100%" src="https://media.giphy.com/media/3o7TKsQ8UQ9w9mN2HS/giphy.gif" alt="Matrix code animation" />
+<img width="100%" src="https://media.giphy.com/media/3o7TKsQ8UQ9w9mN2HS/giphy.gif" alt="Bem vindo(a) ao meu perfil no GitHub" />
 
 </div>
 
